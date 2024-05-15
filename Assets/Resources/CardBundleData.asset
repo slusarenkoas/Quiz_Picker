@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24d8f3f276b604c9fa186d6eab1d6218, type: 3}
+  m_Name: CardBundleData
+  m_EditorClassIdentifier: 
+  <Cards>k__BackingField:
+  - <Sprite>k__BackingField: {fileID: -1210443640, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: A
+  - <Sprite>k__BackingField: {fileID: -1350991820, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: B
+  - <Sprite>k__BackingField: {fileID: -236793414, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: C
+  - <Sprite>k__BackingField: {fileID: 1204464169, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: D
+  - <Sprite>k__BackingField: {fileID: -390907842, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: F
+  - <Sprite>k__BackingField: {fileID: 719389881, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: G
+  - <Sprite>k__BackingField: {fileID: 1450443876, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: J
+  - <Sprite>k__BackingField: {fileID: 1154605434, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: I
+  - <Sprite>k__BackingField: {fileID: -1748821399, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: E
+  - <Sprite>k__BackingField: {fileID: 1234315989, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: H
+  - <Sprite>k__BackingField: {fileID: -319694085, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: K
+  - <Sprite>k__BackingField: {fileID: 1118136723, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: L
+  - <Sprite>k__BackingField: {fileID: -1141781841, guid: f91cda0c0e577419a962342e767b1351, type: 3}
+    <Identifier>k__BackingField: M
+  - <Sprite>k__BackingField: {fileID: -2145490351, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: R
+  - <Sprite>k__BackingField: {fileID: 279561805, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: S
+  - <Sprite>k__BackingField: {fileID: -365135415, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: U
+  - <Sprite>k__BackingField: {fileID: -1418779153, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: V
+  - <Sprite>k__BackingField: {fileID: -430970710, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: O
+  - <Sprite>k__BackingField: {fileID: -456184581, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: Q
+  - <Sprite>k__BackingField: {fileID: 1215705065, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: W
+  - <Sprite>k__BackingField: {fileID: -928638897, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: T
+  - <Sprite>k__BackingField: {fileID: 1477005373, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: N
+  - <Sprite>k__BackingField: {fileID: 1236678433, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: P
+  - <Sprite>k__BackingField: {fileID: -276666343, guid: 158a404098af34898a8fdb47dac812ae, type: 3}
+    <Identifier>k__BackingField: X
+  - <Sprite>k__BackingField: {fileID: 1128579297, guid: 55415d5485ffd41c78352c3f41f558c7, type: 3}
+    <Identifier>k__BackingField: Y
+  - <Sprite>k__BackingField: {fileID: -122859520, guid: 55415d5485ffd41c78352c3f41f558c7, type: 3}
+    <Identifier>k__BackingField: Z

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24d8f3f276b604c9fa186d6eab1d6218, type: 3}
+  m_Name: CardBundleData 2
+  m_EditorClassIdentifier: 
+  <Cards>k__BackingField:
+  - <Sprite>k__BackingField: {fileID: -149817869, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 1
+  - <Sprite>k__BackingField: {fileID: 1463035882, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 2
+  - <Sprite>k__BackingField: {fileID: 1256516939, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 3
+  - <Sprite>k__BackingField: {fileID: 833482778, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 4
+  - <Sprite>k__BackingField: {fileID: -1497796942, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 5
+  - <Sprite>k__BackingField: {fileID: 482665526, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 6
+  - <Sprite>k__BackingField: {fileID: -1986378055, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 7
+  - <Sprite>k__BackingField: {fileID: 328298705, guid: c1f1e405dd67046afbd3818331317180, type: 3}
+    <Identifier>k__BackingField: 8
+  - <Sprite>k__BackingField: {fileID: 428653895, guid: 6786e2f3caa5a479bbe4ece45898ef1e, type: 3}
+    <Identifier>k__BackingField: 9
+  - <Sprite>k__BackingField: {fileID: -2095787813, guid: 384da9794a6864038a871291555e6ace, type: 3}
+    <Identifier>k__BackingField: 10
