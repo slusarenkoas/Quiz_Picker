@@ -4,4 +4,4 @@ The task according to the TOR is fulfilled.
 Residual bugs: No looping of the card set when all targets are selected. 
 Very simple UI. 
 
-![](https://github.com/slusarenkoas/Quiz_Picker/blob/main/Movie_004.mp4)
+![](https://github.com/slusarenkoas/Quiz_Picker/blob/main/Movie_004.gif)
